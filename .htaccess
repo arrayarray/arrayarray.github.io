@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$ http://gitstar.top:88/$1 [L,R=301]
